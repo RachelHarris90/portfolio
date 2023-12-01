@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Career portfolio",
+  "main": "index.ts",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachelHarris90/portfolio.git"
+  },
+  "author": "Rachel Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachelHarris90/portfolio/issues"
+  },
+  "homepage": "https://github.com/RachelHarris90/portfolio#readme"
+}
